@@ -1,3 +1,12 @@
+# 使用说明：
+
+本 git 经过下面修改后，可以在 ThankPadT14，Windows11，上正常运行。
+
+-  tensorflow==2.12.0
+-  h5py==3.12.1
+-  tensorflow-addons==0.20.0
+
+
 # Stable Diffusion in TensorFlow / Keras
 
 A Keras / Tensorflow implementation of Stable Diffusion. 
