@@ -1,7 +1,7 @@
-tensorflow==2.10.0
-h5py==3.7.0
+tensorflow==2.12.0
+h5py==3.12.1
 Pillow==9.2.0
 tqdm==4.64.1
 ftfy==6.1.1
 regex==2022.9.13
-tensorflow-addons==0.17.1
+tensorflow-addons==0.20.0
